@@ -1,0 +1,22 @@
+jQuery(document).ready(function($){
+    $('.primary-color').wpColorPicker();
+    $('.primary-background-color').wpColorPicker();
+    $('.primary-text-color').wpColorPicker();
+    $('.secondary-background-color').wpColorPicker();
+    $('.custom-accent-color').wpColorPicker();
+    $('.primary-buttons-background-color').wpColorPicker();
+    $('.secondary-buttons-background-color').wpColorPicker();
+    $('.custom-error-color').wpColorPicker();
+    $('.input-field-background-color').wpColorPicker();
+    $('.input-field-text-color').wpColorPicker();
+    $('.secondary-text-color').wpColorPicker();
+    $('.tertiary-text-color').wpColorPicker();
+    $('.primary-buttons-text-color').wpColorPicker();
+    $('.secondary-buttons-text-color').wpColorPicker();
+    $('.border-color').wpColorPicker();
+    $('.quantity-circle-color').wpColorPicker();
+    $('.quantity-circle-background-color').wpColorPicker();
+    $('.minicart-message-color').wpColorPicker();
+    $('.minicart-message-background-color').wpColorPicker();
+    $('.input-outline-color').wpColorPicker();
+});
